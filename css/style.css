@@ -288,7 +288,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "Open Sans", sans-serif;
+  font-family: serif, "Open Sans", sans-serif;
 }
 code,
 pre {
