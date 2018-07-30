@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bones orchids</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bones-orchids.github.io//</link>
     <description>Recent content on Bones orchids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
